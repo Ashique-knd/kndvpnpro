@@ -17,6 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.122.35.134","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Australia","country":"United States","image":"australia","ip":"34.151.91.190","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Australia","country":"Australia","image":"australia","ip":"34.151.91.190","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"India","country":"India","image":"india","ip":"34.93.36.27","active":"true","signal":"a"},
   ]
 }
